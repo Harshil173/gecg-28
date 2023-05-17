@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    overflow: hidden;
+}
+.img_container {
+    width: 100wh;
+    height: 100vh;
+}
